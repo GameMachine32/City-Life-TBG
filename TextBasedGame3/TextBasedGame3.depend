@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1495999020 source:c:\users\simon.manske\documents\programming\mud2(webroot sucks)\textbasedgame3\main.cpp
+	<iostream>
+	"setup.h"
+	"jobs.h"
+
+1495924907 c:\users\simon.manske\documents\programming\mud2(webroot sucks)\textbasedgame3\include\setup.h
+
+1495992105 source:c:\users\simon.manske\documents\programming\mud2(webroot sucks)\textbasedgame3\src\resources.cpp
+	"resources.h"
+	<string>
+	<conio.h>
+	<iostream>
+
+1495992088 c:\users\simon.manske\documents\programming\mud2(webroot sucks)\textbasedgame3\include\resources.h
+	<string>
+
+1495992021 source:c:\users\simon.manske\documents\programming\mud2(webroot sucks)\textbasedgame3\src\setup.cpp
+	"setup.h"
+	"resources.h"
+	"town.h"
+	<iostream>
+
+1495980256 c:\users\simon.manske\documents\programming\mud2(webroot sucks)\textbasedgame3\include\town.h
+
+1495999052 source:c:\users\simon.manske\documents\programming\mud2(webroot sucks)\textbasedgame3\src\town.cpp
+	"town.h"
+	"resources.h"
+	"buildings.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<string>
+	<array>
+
+1495999168 source:c:\users\simon.manske\documents\programming\mud2(webroot sucks)\textbasedgame3\src\buildings.cpp
+	"buildings.h"
+	"resources.h"
+	"town.h"
+	"jobs.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1495992619 c:\users\simon.manske\documents\programming\mud2(webroot sucks)\textbasedgame3\include\buildings.h
+
+1495999168 source:c:\users\simon.manske\documents\programming\mud2(webroot sucks)\textbasedgame3\src\jobs.cpp
+	"jobs.h"
+	"resources.h"
+	"town.h"
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1495997149 c:\users\simon.manske\documents\programming\mud2(webroot sucks)\textbasedgame3\include\jobs.h
+
+1496102704 source:c:\users\simon.manske\documents\programming\city-life-tbg-master\textbasedgame3\main.cpp
+	<iostream>
+	"setup.h"
+	"jobs.h"
+
+1496102704 c:\users\simon.manske\documents\programming\city-life-tbg-master\textbasedgame3\include\setup.h
+
+1496102704 c:\users\simon.manske\documents\programming\city-life-tbg-master\textbasedgame3\include\jobs.h
+
+1496105575 source:c:\users\simon.manske\documents\programming\city-life-tbg-master\textbasedgame3\src\buildings.cpp
+	"buildings.h"
+	"resources.h"
+	"town.h"
+	"jobs.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1496103872 c:\users\simon.manske\documents\programming\city-life-tbg-master\textbasedgame3\include\buildings.h
+
+1496102704 c:\users\simon.manske\documents\programming\city-life-tbg-master\textbasedgame3\include\resources.h
+	<string>
+
+1496102704 c:\users\simon.manske\documents\programming\city-life-tbg-master\textbasedgame3\include\town.h
+
+1496102704 source:c:\users\simon.manske\documents\programming\city-life-tbg-master\textbasedgame3\src\resources.cpp
+	"resources.h"
+	<string>
+	<conio.h>
+	<iostream>
+
+1496102704 source:c:\users\simon.manske\documents\programming\city-life-tbg-master\textbasedgame3\src\setup.cpp
+	"setup.h"
+	"resources.h"
+	"town.h"
+	<iostream>
+
+1496104979 source:c:\users\simon.manske\documents\programming\city-life-tbg-master\textbasedgame3\src\town.cpp
+	"town.h"
+	"resources.h"
+	"buildings.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<string>
+	<array>
+
+1496103002 source:c:\users\simon.manske\documents\programming\city-life-tbg-master\textbasedgame3\src\jobs.cpp
+	"jobs.h"
+	"resources.h"
+	"town.h"
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
